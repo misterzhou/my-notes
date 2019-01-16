@@ -1,2 +1,2 @@
-# my-doc
+# my-notes
 my notes
